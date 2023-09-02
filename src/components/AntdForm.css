@@ -1,0 +1,26 @@
+.form_div{
+    display: flex;
+    justify-content: center;
+    height: 90vh;
+    align-items: center;
+}
+
+.form_div_form{
+    background-color:whitesmoke;
+    padding: 15px;
+    border: 0px;
+    border-radius: 5px;
+    box-shadow: 3px 3px 8px lightgray;
+    width: 350px;
+    box-sizing: border-box;
+}
+
+.form_div_form:hover{
+    border: 1px solid lightgray
+}
+
+.form_h1{
+    color: red;
+    text-align: center;
+}
+

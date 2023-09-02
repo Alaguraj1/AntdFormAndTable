@@ -1,0 +1,39 @@
+.Home_div{
+    background-color: blue;
+   
+}
+
+
+.Home_ul{
+    display: flex;
+   list-style-type: none;
+   justify-content: center;
+   margin: 0;
+   padding: 0;
+}
+
+.Home_link{
+    text-decoration: none;
+}
+
+
+.Home_li1{
+    font-weight: bold;
+    margin: 5px 10px 5px 0;
+    color: white;
+    font-size: 16px;
+}
+
+.Home_li1:hover{
+    color: rgb(237, 253, 5);  
+}
+
+.Home_li2{
+    font-weight: bold;
+    margin: 5px 0px 5px 10px;
+    color: white;
+}
+
+.Home_li2:hover{
+    color: rgb(237, 253, 5);
+}
